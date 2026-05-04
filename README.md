@@ -1,4 +1,5 @@
-# Holiday Package Purchase Prediction
+# Holiday Package Purchase Prediction 
+⚠️ Note: This project is still under development. Improvements and better structure are coming soon.
 
 ## 📌 Project Overview
 
